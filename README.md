@@ -1,5 +1,7 @@
 # Flappy Ball
 
+### I am going to re-write this project by using Vue.js in my another repo.
+
 An exercise project to use QT C++ to build Flappy Bird game
 
 All images that i used for this project are referenced to the original version  "Flappy Bird" (a famous app on IOS).
