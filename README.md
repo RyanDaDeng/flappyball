@@ -16,6 +16,13 @@ This is just a practice for me to do some interesting exercises when I was in un
 
 It still has some bugs, I should have made objects as QWidget and replaced Dialog with Main Window, but in overall, it is not really bad.
 
+Demo:
+
+(Demo is a bit flaggy because of FPS rate is low)
+
+<img src="https://github.com/RyanDaDeng/flappyball/blob/master/demo.gif" />
+
+
 The following are some snapshots:
 
 <img src="https://github.com/RyanDaDeng/flappyball/blob/master/1.jpg" />
