@@ -1,5 +1,11 @@
 # Flappy Ball
 
+### Install
+1. Git clone the project
+2. Import by using QT platform
+3. Build
+4. Run
+
 ### I am going to re-write this project by using Vue.js in my another repo.
 
 An exercise project to use QT C++ to build Flappy Bird game
